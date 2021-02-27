@@ -16,7 +16,6 @@
 .right-arrow {
     font-size: 3rem;
     color: rgb(10, 228, 39);
-    z-index: 10;
     cursor: pointer;
     user-select: none;
 }
@@ -24,7 +23,6 @@
 .left-arrow {
     font-size: 3rem;
     color: rgb(10, 228, 39);
-    z-index: 10;
     cursor: pointer;
     user-select: none;
 }

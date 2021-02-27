@@ -6,7 +6,6 @@ function Home ({t}) {
       }, [])
     return (
         <>
-            <video src="/videos/video-2.mp4" autoPlay loop muted></video>
             <h1 className="home">{t('Home')}</h1>
         </>
     )
