@@ -535,7 +535,7 @@ video {
 
 /* Footer media query */
 
-@media screen and (max-width:620px) {
+@media screen and (max-width:630px) {
   .footer-hr {
     width: 300px;
   }
@@ -544,7 +544,7 @@ video {
   }
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:460px) {
   .footer-hr {
     width: 200px;
   }
@@ -558,7 +558,7 @@ video {
 }
 
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:360px) {
   .footer-hr {
     width: 200px;
   }
@@ -571,7 +571,7 @@ video {
   }
 }
 
-@media screen and (max-width:280px) {
+@media screen and (max-width:290px) {
   .footer-hr {
     width: 200px;
   }
