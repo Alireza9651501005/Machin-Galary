@@ -1,4 +1,11 @@
+@font-face{
+    font-family: Vazir;
+    src:url("fonts/Vazir.woff2") format("woff2");
+    font-style:normal
+}
+
 body {
+	font-family: Vazir;
   padding: 0;
   margin: 0;
 }
